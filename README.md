@@ -20,13 +20,14 @@ Metrics:
       
 Dashboard:
 
-    Built using [Tool/Platform used, e.g., Tableau/Power BI/Excel].
-    Features filters for year, location, and market segments.
-    Provides a clear view of revenue trends, room performance, and competitor analysis.
-    
+Built using [Tool/Platform used, e.g., Tableau/Power BI/Excel].
+Features filters for year, location, and market segments.
+Provides a clear view of revenue trends, room performance, and competitor analysis.
+
 Insights:
 
-    Identification of underperforming regions or segments.
+Identification of underperforming regions or segments.
     Suggestions for revenue optimization strategies (e.g., dynamic pricing, targeted promotions).
     Seasonal trends and their impact on revenue.
 
+    
